@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/egaido7/egaido7/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Egaido7/Egaido7/output/snake.svg" alt="Snake animation" />
 
 ###
