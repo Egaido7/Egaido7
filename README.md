@@ -1,6 +1,6 @@
 <h2 align="left">Hola soy Emiliano Gaido,de San Luis, Argentina </h2>
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Egaido7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 <br>
-###
+
 <div align="left">
   <a href="mailto:emiliano.gaido07@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
@@ -43,10 +43,8 @@
   </a>
 </div>
 
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/egaido7/egaido7/output/snake.svg" alt="Snake animation" />
 
-###
